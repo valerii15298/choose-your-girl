@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d916657-412e-4024-9969-e218eb7c97fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iSdPB3iMCUJq8oYufKh0WYhJ2y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d916657-412e-4024-9969-e218eb7c97fc" name="Default Changelist" comment="" />
+      <created>1601904901890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601904901890</updated>
+      <workItem from="1601904906490" duration="11856000" />
+      <workItem from="1601997619747" duration="3214000" />
+      <workItem from="1602076625329" duration="244000" />
+      <workItem from="1602080627995" duration="18728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="385" key="#Deployment" timestamp="1601920398454">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="880" y="385" key="#Deployment/0.0.2560.1440@0.0.2560.1440" timestamp="1601920398454" />
+    <state x="1029" y="514" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601924949119">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1029" y="514" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1601924949119" />
+    <state x="1029" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1601905420264" />
+    <state x="1101" y="650" key="NewPhpFileDialog" timestamp="1601913115634">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1101" y="650" key="NewPhpFileDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1601913115634" />
+    <state x="789" y="359" key="SettingsEditor" timestamp="1602076906108">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="789" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1602076906108" />
+    <state x="1118" y="626" key="WebDeployment.AddServerDialog.v.1" timestamp="1601907158439">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1118" y="626" key="WebDeployment.AddServerDialog.v.1/0.0.2560.1440@0.0.2560.1440" timestamp="1601907158439" />
+    <state x="1187" y="457" key="ftp.server.browser" timestamp="1601920388244">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1187" y="457" key="ftp.server.browser/0.0.2560.1440@0.0.2560.1440" timestamp="1601920388244" />
+  </component>
+</project>
